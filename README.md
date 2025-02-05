@@ -27,5 +27,6 @@ Este projeto implementa um sistema de gerenciamento de funcionários usando Kotl
 2. Execute o container:
   ```bash
   make run
+   ```
 
 📌 *Projeto desenvolvido para fins acadêmicos* - **(ECO0107 - DESENVOLVIMENTO PARA DISPOSITIVOS MÓVEIS)**
